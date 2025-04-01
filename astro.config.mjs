@@ -12,5 +12,5 @@ export default defineConfig({
 	},
 
 	integrations: [mdx()],
-	site: 'https://astro.build'
+	site: 'https://astrelion.netlify.app/'
 })
